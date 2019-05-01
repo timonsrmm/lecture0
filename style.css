@@ -10,8 +10,8 @@
 @media (max-width: 799px) {
   table {
     border: 2px solid black;
-    width: 500px;
-    height: 400px;
+    width: 125;
+    height: 850px;
     margin: 30px; } }
 th, td {
   border: 1px solid black;
