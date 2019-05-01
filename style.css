@@ -1,0 +1,39 @@
+#h3CSS {
+  margin: 45px; }
+
+@media (min-width: 800px) {
+  table {
+    border: 2px solid black;
+    width: 1000px;
+    height: 800px;
+    margin: 30px; } }
+@media (max-width: 799px) {
+  table {
+    border: 2px solid black;
+    width: 500px;
+    height: 400px;
+    margin: 30px; } }
+th, td {
+  border: 1px solid black;
+  text-align: center; }
+
+ul > li {
+  color: magenta; }
+
+li a {
+  font-size: 15px;
+  color: red; }
+
+img {
+  margin: 30px; }
+
+h1 {
+  margin: 30px; }
+
+p {
+  margin: 10px 10px 0px 20px; }
+
+.Heading {
+  font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
